@@ -1,5 +1,5 @@
 // declare personal mapbox access token to access the mapbox API
-L.mapbox.accessToken = 'pk.eyJ1IjoiY2hyaXN3aWxscyIsImEiOiJjaXFyeTdhNmgwMDl3aTRubTc2aXZueXhsIn0.ULMwLML50j_FGwrRAWNpEw';
+L.mapbox.accessToken = 'pk.eyJ1IjoiYWxiYW1lc3AiLCJhIjoiY2lzdDQ0cTJmMDAxdTJ0cWw0cTVoNWdvNiJ9.aU1HJ7zpUuxDYS6UlwOPNA';
 
 ///////////////////////////////////////////////////
 // CREATE MAP AND INCLUDE GEOCODE SEARCH CAPABILITY
